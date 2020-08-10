@@ -19,3 +19,7 @@ Use Make to compile: `$ make`
 ## Usage
 
 Run executable: `$ ./main`
+
+## Example Usage
+
+![screenshot1](img/zoo_tycoon.png)
